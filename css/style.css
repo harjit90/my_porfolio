@@ -964,7 +964,7 @@ p{
     transform: scale(4.5);
     width: 100%;
     height: 100%;
-    
+    cursor: zoom-in;
 }
 .ratio-16x9 {
     &::-webkit-scrollbar {
