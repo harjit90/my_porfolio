@@ -1,0 +1,229 @@
+@charset "utf-8";
+/* Responsive */
+
+@media (max-width: 1199.5px) {
+
+    
+
+
+}
+
+@media (max-width:991.98px) {
+
+    /* .container {
+        width: 100%;
+        padding: 0 1rem;
+    }
+    .container {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    } */
+    
+
+}
+
+@media only screen and (min-width:768px) and (max-width:991.98px) {
+
+    
+
+}
+
+@media only screen and (min-width:480px) and (max-width:767.98px) {
+
+    
+
+}
+@media only screen and (min-width:320px) and (max-width:479.98px) {
+
+    
+
+}
+
+@media only screen and (max-width:767.98px) and (max-width:991.98px) {
+    .container {
+        width: 100%;
+        padding: 0 1.5rem !important;
+    }
+    /* .sectionHeading {
+        font-size: 2.5rem !important;
+    }
+    .stickyHeader {
+        display: none;
+    }
+    .headerMenu .navbar-toggler {
+        color: #ffffff !important;
+        position: fixed;
+        top: 20px;
+        padding: 0.5rem;
+        width: 45px;
+        height: 45px;
+        background-color: transparent;
+        border: 1px solid #ffffff !important;
+        color: #ffffff;
+        line-height: 1.2;
+    }
+    .homeWrapper {
+        height: auto;
+        padding: 150px 0 100px 0;
+    }
+    .animatedHeading1 , .animatedHeading2 , .animatedHeading3 , .animatedHeading4  {
+        font-size: 0.8rem;
+    }
+    .myImg img {
+        top: -110px;
+    }
+    .animatedHeadings {
+        padding: 0;
+    }
+    .animatedHeading3 {
+        left: 0;
+        bottom: 50px;
+    }
+    .animatedHeading2 {
+        right:0;
+    }
+    .animatedHeading4 {
+        right: 0;
+        bottom: -100px;
+    }
+    .animatedHeading1 {
+        left: 0;
+        top: 80px;
+    }
+    .homeBanner {
+        padding-top: 13rem;
+    }
+    .headerPadding {
+        display: none;
+    }
+    .aboutUsContent {
+        width: 100%;
+    }
+    .experienceInnerWrapper {
+        margin-bottom: 1.5rem;
+    }
+    .contactInfo {
+        margin-bottom: 2rem;
+        border-right: 0;
+    }
+    .designDeveloped {
+        float: left;
+    } */
+}
+
+@media only screen and (max-width:767px) {
+
+    .container {
+        width: 100%;
+        padding: 0 1rem !important;
+    }
+    .sectionHeading {
+        font-size: 2.5rem !important;
+    }
+    .stickyHeader {
+        display: none;
+    }
+    .headerMenu {
+        color: #ffffff;
+        padding: 0;
+        margin: 0;
+        background-color: #000000;
+        border-radius: 0;
+        border: none;
+        text-align: left;
+        width: 100%;
+        position: fixed !important;
+        top:0;
+    }
+    .navbar-toggler {
+        width: 50px;
+        height: 50px;
+        border: 1px solid #ffffff !important;
+        color:#ffffff !important;
+        border-radius: 0 !important;
+        line-height: 1.4 !important;
+        padding: 0 !important;
+    }  
+    .navbar-toggler:focus {
+        outline: 0 !important;
+    } 
+    .headerMenu .navbar-nav .nav-link {
+        padding: 0.8rem 1rem !important;
+        border-bottom: 1px solid #1d1d1d;
+    }
+    .portfolioCategory .nav-item {
+        margin-bottom: 0.8rem;
+    }
+    .navbar-nav li:last-child .nav-link {
+        border-bottom: none;
+    }
+    .headerMenu li a {
+        display: block;
+        color: var(--text-white) !important;
+    }
+    .headerMenu li:after {
+        display: none;
+    }
+    .headerMenu .nav-item {
+        display: block;
+        width: 100%;
+    }
+    .homeWrapper {
+        height: auto;
+        padding: 150px 0 100px 0;
+    }
+    .animatedHeading1 , .animatedHeading2 , .animatedHeading3 , .animatedHeading4  {
+        font-size: 0.8rem;
+    }
+    .myImg img {
+        top: -110px;
+    }
+    .animatedHeadings {
+        padding: 0;
+    }
+    .animatedHeading3 {
+        left: 0;
+        bottom: 50px;
+    }
+    .animatedHeading2 {
+        right:0;
+    }
+    .animatedHeading4 {
+        right: 0;
+        bottom: -100px;
+    }
+    .animatedHeading1 {
+        left: 0;
+        top: 80px;
+    }
+    .homeBanner {
+        padding-top: 13rem;
+    }
+    .headerPadding {
+        display: none;
+    }
+    .aboutUsContent {
+        width: 100%;
+    }
+    .experienceInnerWrapper {
+        margin-bottom: 1.5rem;
+    }
+    .contactInfo {
+        margin-bottom: 2rem;
+        border-right: 0;
+    }
+    .designDeveloped {
+        float: left;
+    }
+    #backToTop {
+        bottom: 20px;
+    }
+}
+
+
+
+
+
+
+
+
